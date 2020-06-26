@@ -6,6 +6,11 @@ Orange
 Blue
 Green
 Indigo
+Fire
+Earth
+Water
+Air
+Avatar
 Unicorn
 Yellow
 pony
